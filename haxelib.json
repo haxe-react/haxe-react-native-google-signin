@@ -1,0 +1,18 @@
+{
+  "name": "react-native-google-signin",
+  "license": "MIT",
+  "tags": [
+    "react",
+    "native"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "kevinresol"
+  ],
+  "releasenote": "Initial release",
+  "version": "0.1.0",
+  "url": "https://github.com/haxe-react/haxe-react-native-google-signin",
+  "dependencies": {
+    "react-native": ""
+  }
+}
